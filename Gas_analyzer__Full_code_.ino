@@ -1,3 +1,14 @@
+/* 
+ 
+  Gas Analyzer (OLED display with Arduino NANO)
+  (CH4, CO2, CO, and H2)
+ 
+  modified on 19 June 2023 
+  by MBDK Siriwardena 
+  https://github.com/dasun1997/Gas-Analyzer.git
+ 
+*/ 
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
